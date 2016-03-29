@@ -1,0 +1,1 @@
+exports.pgConnect = require('./pgConnect');
